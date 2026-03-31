@@ -1,0 +1,5 @@
+repo:
+  name: akasha-prospector
+  ecosystem: akasha
+  version: 0.1.0
+  status: active
