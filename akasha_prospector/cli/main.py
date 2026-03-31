@@ -21,3 +21,7 @@ def main():
         print("wrote", args.out)
     else:
         print(rendered)
+
+
+if __name__ == "__main__":
+    main()
